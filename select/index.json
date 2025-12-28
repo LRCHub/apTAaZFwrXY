@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "'I' Novel",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-28T06:06:45.238189Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wild Chapters (with T.I. & Novel)",
+      "artist": "Conway the Machine feat. T.I. & Novel",
+      "has_synced": true,
+      "path": "select/01_Wild_Chapters_(with_T.I._&_Novel)_Conway_the_Machine_feat._T.I._&_Novel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wild Chapters (feat. T.I. & Novel)",
+      "artist": "Conway",
+      "has_synced": false,
+      "path": "select/02_Wild_Chapters_(feat._T.I._&_Novel)_Conway.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wild Chapters (feat. T.I. & Novel)",
+      "artist": "Conway the Machine",
+      "has_synced": false,
+      "path": "select/03_Wild_Chapters_(feat._T.I._&_Novel)_Conway_the_Machine.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wild Chapters (with T.I. & Novel)",
+      "artist": "Conway the Machine",
+      "has_synced": true,
+      "path": "select/04_Wild_Chapters_(with_T.I._&_Novel)_Conway_the_Machine.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Novel",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/05_I_Novel_RADWIMPS.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "'I' Novel",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/06_'I'_Novel_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "‘I’ Novel",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/07_‘I’_Novel_RADWIMPS.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "‘I’ Novel",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/08_‘I’_Novel_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "'I' Novel",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/09_'I'_Novel_RADWIMPS.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wild Chapters Ft. T.I. & Novel",
+      "artist": "Conway the Machine",
+      "has_synced": true,
+      "path": "select/10_Wild_Chapters_Ft._T.I._&_Novel_Conway_the_Machine.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "'I' Novel",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_'I'_Novel_RADWIMPS.txt"
+    }
+  ]
+}
